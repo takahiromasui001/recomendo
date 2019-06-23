@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Railsで何か作る時にベースにする。良く使うgemとかがいい感じに入ってる。
+後Rails上で何か試したい時に使う。その際はブランチを分ける
 
-Things you may want to cover:
+## Branchと役割
+### master
+Railsで何か作るときのベースにする
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### try_ajax
+RailsでAjaxを試した時のソース。
+詳細は以下Qiita記事参照。
+https://qiita.com/jonakp/items/39fecc0f31335328b34e
