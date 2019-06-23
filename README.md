@@ -8,6 +8,6 @@ Railsで何か作る時にベースにする。良く使うgemとかがいい感
 Railsで何か作るときのベースにする
 
 ### try_ajax
-RailsでAjaxを試した時のソース。
+RailsでAjaxを試した時のソース。  
 詳細は以下Qiita記事参照。
 https://qiita.com/jonakp/items/39fecc0f31335328b34e
